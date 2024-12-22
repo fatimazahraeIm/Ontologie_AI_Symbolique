@@ -5,3 +5,4 @@ Ce projet est une ontologie qui cible le domaine de la restauration. Il a été 
 ## Description
 
 L'ontologie vise à modéliser les concepts et les relations spécifiques au domaine de la restauration. Elle peut être utilisée pour structurer et organiser des informations relatives aux restaurants, menus, plats, ingrédients, et autres éléments pertinents.
+Le rapport contient une description détaillée.
